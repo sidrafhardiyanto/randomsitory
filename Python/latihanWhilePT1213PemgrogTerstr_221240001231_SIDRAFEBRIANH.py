@@ -104,6 +104,7 @@ def main():
             a. Statement break
             b. Perbedaan break dengan exit
             c. TUNJUKKAN SEMUA MATERI 2
+        3. Materi: SEMUA MATERI DI ATAS
     """)
 def materi():
     pilihMateri=int(input("Pilih materi yang ingin dilihat. (1/2) -> "))
@@ -131,7 +132,10 @@ def materi():
         elif pilihMateri2=='c':
             materi2a()
             materi2b()
-
+    if pilihMateri==3:
+        materi1a()
+        materi1b()
+        
 main()
 materi()
 ulangMateri=input('Mau diulang kembali? (y/g) ')
