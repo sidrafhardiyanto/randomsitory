@@ -1,4 +1,4 @@
-print(" MATERI LOOPING FOR & WHILE ".center(80,"!"))
+print(" MATERI LOOPING FOR & RANGE ".center(80,"!"))
 print("!"*80)
 print("\nSIDRA FEBRIAN HARDIYANTO 221240001231 DA TIF UNISNU")
 for i in [1,2,3,4,5]:
@@ -53,6 +53,33 @@ print(" - Latihan Range sama For - ".center(40,'L'))
 for latihanRange in range(1,10,2):
     # maksudnya tuh gini, buat variabel latihanRange, mulai dari 1, stop sampai 10, inkremen 2
     print('Nilai rata-rata mahasiswa semester',latihanRange,'adalah 85')
+print("\n")
+mulaiDari=int(input('Masukkan range untuk mulaiDari : '))
+sampaiDengan=int(input('Masukkan range untuk sampaiDengan : '))
+kelipatan=int(input('Masukkan range untuk kelipatan : '))
+for variabelRANGE in range(mulaiDari,sampaiDengan,kelipatan):
+    print('Variabel range ke - ',variabelRANGE)
+print("""\nCara menggunakan range:
+for variabelRANGE in range(mulaiDari,sampaiDengan,kelipatan):
+    print('Variabel range ke - ',variabelRANGE)
+Misalnya nih...
+--------- Inputnya begini: ---------
+for variabelRANGE in range(1,10,2):
+    print('Variabel range ke - ',variabelRANGE)
+--------- Outputnya jadi: ---------
+Variabel range ke -  1
+Variabel range ke -  3
+Variabel range ke -  5
+Variabel range ke -  7
+Variabel range ke -  9
+
+Artinya: 
+user: buat variabelRANGE terus print mulai dari 1 sampai 10 tapi kelipatan 2
+komputer: ok, variabelRANGE= 1-10;
+                             1,1+2,3+2,5+2,7+2;
+                             1,3,5,7,9
+Nggak sampai 9+2 karena sampai dengan 10 saja
+""")
 print("\n")
 print("!"*80)
 print(" MATERI PERULANGAN FOR DENGAN VALUE INPUT ".center(80,"!"))
