@@ -36,7 +36,7 @@ Dart, Flutter, PHP,
 ## D. Tools dan Helper
 ### 1. IDE
 #### a. Visual Studio Code
-Untuk IDE Visual Studio Code, kalian dapat melihat pembahasanku melalui [link ini](https://github.com/), panjang emang, tapi ini IDE kesayangan kita semua, hehe.
+Untuk IDE Visual Studio Code, kalian dapat melihat pembahasanku melalui [link ini](https://github.com/sidrafhardiyanto/randomsitory/blob/main/VSCode_ian.md), panjang emang, tapi ini IDE kesayangan kita semua, hehe.
 #### b. Android Studio
 #### c. IntelliJ Community Edition
 #### d. ADA Community edition
