@@ -10,7 +10,7 @@ README.md ini memiliki maksud dan tujuan:
 [] Membagikan tool
 [] Membagikan sumber bahan
 
-## 3. Rumusan Masalah
+##      3. Rumusan Masalah
 - Apaka
 - Mengapa
 
@@ -33,7 +33,15 @@ Dart, Flutter, PHP,
 ## C. Komunitas dan Forum
 ### 1. [JVM Indonesia]()
 
-## D. Else
+## D. Tools dan Helper
+### 1. IDE
+#### a. Visual Studio Code
+Untuk IDE Visual Studio Code, kalian dapat melihat pembahasanku melalui [link ini](https://github.com/), panjang emang, tapi ini IDE kesayangan kita semua, hehe.
+#### b. Android Studio
+#### c. IntelliJ Community Edition
+#### d. ADA Community edition
+
+## E. Else
 ### 1. [Roadmap.sh](https://roadmap.sh)
 Nah, bagi kalian yang masih bingung mau belajar dari mana, apa aja, abis ini ke mana, mungkin bisa pakai referensi roadmap atau peta perjalanan pembelajaran berikut:
 #### a. [Roadmap Frontend](https://roadmap.sh/frontend)
