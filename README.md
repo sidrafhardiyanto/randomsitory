@@ -6,11 +6,11 @@ Saya melihat tantangan para mahasiswa baru Teknik Informatika dalam mencari sumb
 
 ## 2. Maksud dan Tujuan
 README.md ini memiliki maksud dan tujuan:
-[] Membagikan sumber belajar
-[] Membagikan tool
-[] Membagikan sumber bahan
+- [] Membagikan sumber belajar
+- [] Membagikan tool
+- [] Membagikan sumber bahan
 
-##      3. Rumusan Masalah
+## 3. Rumusan Masalah
 - Apaka
 - Mengapa
 
@@ -34,9 +34,9 @@ Dart, Flutter, PHP,
 ### 1. [JVM Indonesia]()
 
 ## D. Tools dan Helper
-### 1. IDE
+### 1. IDE (Integrated Development Environment)
 #### a. Visual Studio Code
-Untuk IDE Visual Studio Code, kalian dapat melihat pembahasanku melalui [link ini](https://github.com/), panjang emang, tapi ini IDE kesayangan kita semua, hehe.
+Untuk IDE Visual Studio Code, kalian dapat melihat pembahasanku melalui [link ini](https://github.com/sidrafhardiyanto/randomsitory/blob/main/VSCode_ian.md), panjang emang, tapi ini IDE kesayangan kita semua, hehe.
 #### b. Android Studio
 #### c. IntelliJ Community Edition
 #### d. ADA Community edition

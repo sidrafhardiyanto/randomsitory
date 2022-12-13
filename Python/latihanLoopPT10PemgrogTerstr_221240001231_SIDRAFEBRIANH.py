@@ -38,7 +38,7 @@ for iniApaYa in range(8):
     print(iniApaYa)    
 print("\n")
 for iniApaYa2 in range(1,9):
-    print(iniApaYa2)
+    print(iniApaYa2) 
 else:
     print("Programnya dah kelar cuy, dah sampe", iniApaYa2)
 print("\n")
